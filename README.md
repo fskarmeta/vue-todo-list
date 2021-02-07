@@ -1,24 +1,5 @@
-# firstvue
+# Vue Todo List
 
-## Project setup
-```
-npm install
-```
+## Just a repo for a Vue tutorial I followed made by traversy media
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![ScreenShot](./screenshot.png)
